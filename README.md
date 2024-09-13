@@ -7,4 +7,6 @@
   - Adobe illustrator and photoshop
   - business :money_with_wings: :bar_chart:
   - digital design
+
+    
 **I am currently learning a lot about UX design and research**
